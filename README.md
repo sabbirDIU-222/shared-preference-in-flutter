@@ -2,15 +2,9 @@
 
 A new Flutter project.
 
-## Getting Started
+![image](https://user-images.githubusercontent.com/57146729/213846060-f01b61e0-5fc3-4110-a769-d1f5a30ebad8.png)
 
-This project is a starting point for a Flutter application.
+add this dependency in your ymal file
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+dependencies:
+  shared_preferences: ^2.0.17
